@@ -1,2 +1,2 @@
 # laravel_unzipped
-lalaravel_uziped
+composer_uziped
